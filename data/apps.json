@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "CEB Systems",
+    "Other"
+  ],
+  "apps": [
+    {
+      "id": "promis",
+      "name": "PROMIS",
+      "description": "Procurement Management System",
+      "url": "http://promis.lakvijaya.org/",
+      "category": "CEB Systems",
+      "color": "#FF5A5A",
+      "icon": "app-logo.png"
+    },
+    {
+      "id": "zdump",
+      "name": "ZDump",
+      "description": "Flyash disposal management system",
+      "url": "https://github.com",
+      "category": "CEB Systems",
+      "color": "#FB9B8F",
+      "icon": "app-logo.png"
+    },
+    {
+      "id": "coalpal",
+      "name": "CoalPal",
+      "description": "Coal procurement management system",
+      "url": "https://coalpal.lakvijaya.org",
+      "category": "CEB Systems",
+      "color": "#A3485A",
+      "icon": "app-logo.png"
+    },
+    {
+      "id": "foodapp",
+      "name": "eResturent",
+      "description": "Resturent Management System",
+      "url": "https://coalpal.lakvijaya.org",
+      "category": "Other",
+      "color": "#FFC69D",
+      "icon": "app-logo.png"
+    },
+    {
+      "id": "hospitalapp",
+      "name": "eHospital",
+      "description": "Hospital Management System",
+      "url": "https://coalpal.lakvijaya.org",
+      "category": "Other",
+      "color": "#008BFF",
+      "icon": "app-logo.png"
+    },
+    {
+      "id": "sparkx",
+      "name": "SparkX",
+      "description": "Sex education management system",
+      "url": "https://coalpal.lakvijaya.org",
+      "category": "Other",
+      "color": "#E45A92",
+      "icon": "app-logo.png"
+    }
+  ]
+}

@@ -17,7 +17,7 @@
       "id": "zdump",
       "name": "ZDump",
       "description": "Flyash disposal management system",
-      "url": "https://github.com",
+      "url": "https://zdump2.lakvijaya.org/auth/signin",
       "category": "CEB Systems",
       "color": "#FB9B8F",
       "icon": "app-logo.png"
@@ -35,7 +35,7 @@
       "id": "foodapp",
       "name": "eResturent",
       "description": "Resturent Management System",
-      "url": "https://coalpal.lakvijaya.org",
+      "url": "#",
       "category": "Other",
       "color": "#FFC69D",
       "icon": "app-logo.png"
@@ -44,7 +44,7 @@
       "id": "hospitalapp",
       "name": "eHospital",
       "description": "Hospital Management System",
-      "url": "https://coalpal.lakvijaya.org",
+      "url": "https://v2.kumuduhospital.com/",
       "category": "Other",
       "color": "#008BFF",
       "icon": "app-logo.png"
@@ -53,7 +53,7 @@
       "id": "sparkx",
       "name": "SparkX",
       "description": "Sex education management system",
-      "url": "https://coalpal.lakvijaya.org",
+      "url": "https://www.sparkx.love",
       "category": "Other",
       "color": "#E45A92",
       "icon": "app-logo.png"
